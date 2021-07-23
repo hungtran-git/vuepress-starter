@@ -11,6 +11,7 @@ module.exports = {
   ],
   themeConfig: {
     nav: require('./nav/nav'),
+    smoothScroll: true,
     sidebar: {
       '/guide/': getGuideSidebar('Guide', 'Advanced'),
       '/api/': getApiSidebar(),
