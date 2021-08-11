@@ -1,1 +1,2 @@
-vuepress-starter
+#vuepress-starter
+npm docs:dev

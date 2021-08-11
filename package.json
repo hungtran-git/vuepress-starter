@@ -19,6 +19,7 @@
     "vuepress": "^1.8.2"
   },
   "dependencies": {
-    "@vuepress/shared-utils": "^1.8.2"
+    "@vuepress/shared-utils": "^1.8.2",
+    "@vuepress/theme-vue": "^1.8.2"
   }
 }
